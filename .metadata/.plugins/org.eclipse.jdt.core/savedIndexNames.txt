@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/Users/manpreetwalia/Documents/GitHub/stripe-integration/.metadata/.plugins/org.eclipse.jdt.core
+243831228.index
